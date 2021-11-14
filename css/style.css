@@ -1,0 +1,23 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+
+.navbar{
+    background-color:lightcyan ;
+}
+
+.quem-somos{
+    background-color:lightgray;
+    color: black;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.história{
+    background-color: lightcyan;
+}
