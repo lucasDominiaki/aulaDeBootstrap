@@ -1,5 +1,5 @@
 body{
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Courier New', Courier, monospace;
     font-size: larger;
 }
 
@@ -20,4 +20,15 @@ body{
 
 .história{
     background-color: lightcyan;
+}
+
+.Mais-Fotos{
+    background-color: lightgray;
+    font-family:'Courier New', Courier, monospace;
+    color: black
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
